@@ -57,6 +57,6 @@ main:
     	la $a0, output3
     	syscall
 
-	# Exit
-	li $v0, 10
-	syscall
+		# Exit
+		li $v0, 10
+		syscall
