@@ -8,7 +8,7 @@
     output3: .asciiz ". Semoga Anda dapat menjalani semester ke-"
     output4: .asciiz " di Fasilkom dengan baik!"
     
-    # nama angkatan
+    # Nama angkatan
     chronos: .asciiz "Chronos"
     bakung: .asciiz "Bakung"
     apollo: .asciiz "Apollo"
