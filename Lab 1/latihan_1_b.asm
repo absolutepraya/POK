@@ -51,7 +51,7 @@ LoopNameTag:
     li $v0, 4
     la $a0, input3
     syscall
-    # Print pilihan bentuk name tag)
+    # Print pilihan bentuk name tag
     li $v0, 4
     la $a0, input4
     syscall
