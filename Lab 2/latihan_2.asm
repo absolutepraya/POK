@@ -15,7 +15,7 @@
     # Inisialisasi nilai terendah dengan nilai pertama dalam array
     lw $t1, 0($t0)
 
-    # Inisiaisasi nilai tertinggi dengan nilai pertama dalam array
+    # Inisialisasi nilai tertinggi dengan nilai pertama dalam array
     lw $t2, 0($t0)
 
     # Inisialisasi jumlah dengan 0
