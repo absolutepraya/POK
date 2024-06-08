@@ -1,2 +1,14 @@
 *.zip
 */Early Access
+.vscode
+*.bat
+*.aps
+*.aws
+*.hex
+*.map
+*.obj
+*.tmp
+*\(B\)/
+*\(Modul\)/
+*\(New\)/
+Test/
